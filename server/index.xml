@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.B. de Wit</title>
+    <link>https://bendwit.com/</link>
+    <description>Recent content on P.B. de Wit</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Oct 2024 17:56:04 +0200</lastBuildDate>
+    <atom:link href="https://bendwit.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://bendwit.com/post/first_post/</link>
+      <pubDate>Tue, 15 Oct 2024 17:56:04 +0200</pubDate>
+      <guid>https://bendwit.com/post/first_post/</guid>
+      <description>&lt;h2 id=&#34;test-post&#34;&gt;test post&lt;/h2&gt;&#xA;&lt;p&gt;My first post to test some stuff!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://bendwit.com/archives/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://bendwit.com/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://bendwit.com/about/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://bendwit.com/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

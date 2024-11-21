@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on P.B. de Wit</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on P.B. de Wit</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Nov 2024 18:26:06 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collection of Sites</title>
+      <link>http://localhost:1313/post/sites/</link>
+      <pubDate>Wed, 13 Nov 2024 18:26:06 +0100</pubDate>
+      <guid>http://localhost:1313/post/sites/</guid>
+      <description>&lt;h2 id=&#34;search-engines&#34;&gt;search engines&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wiby.me/&#34;&gt;wiby&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://searx.space/&#34;&gt;Searx&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;blogs&#34;&gt;blogs&lt;/h2&gt;&#xA;&lt;h2 id=&#34;technical&#34;&gt;technical&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://libresolutions.network/&#34;&gt;libresolutions&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
