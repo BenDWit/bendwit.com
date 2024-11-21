@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on P.B. de Wit</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://bendwit.com/post/</link>
     <description>Recent content in Posts on P.B. de Wit</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Nov 2024 18:26:06 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bendwit.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collection of Sites</title>
-      <link>http://localhost:1313/post/sites/</link>
+      <link>https://bendwit.com/post/sites/</link>
       <pubDate>Wed, 13 Nov 2024 18:26:06 +0100</pubDate>
-      <guid>http://localhost:1313/post/sites/</guid>
+      <guid>https://bendwit.com/post/sites/</guid>
       <description>&lt;h2 id=&#34;search-engines&#34;&gt;search engines&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wiby.me/&#34;&gt;wiby&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://searx.space/&#34;&gt;Searx&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.wolframalpha.com/&#34;&gt;wolframalpha&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://swisscows.com/en&#34;&gt;swisscows&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://metager.org&#34;&gt;metager&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://kagi.com/&#34;&gt;kagi&lt;/a&gt;  - premium search engine&lt;/p&gt;&#xA;&lt;h2 id=&#34;blogs&#34;&gt;blogs&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;Luke Smith&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.shiey.com&#34;&gt;shiey&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://jvscholz.com/&#34;&gt;James Scholz&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://gabe.rocks/&#34;&gt;Gaberiel&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;technical&#34;&gt;technical&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://libresolutions.network/&#34;&gt;libresolutions network&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;self-hosting&#34;&gt;self-hosting&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://landchad.net/&#34;&gt;landchad&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://comfy.guide/&#34;&gt;comfyguide&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/post/books/</link>
+      <link>https://bendwit.com/post/books/</link>
       <pubDate>Thu, 07 Nov 2024 19:57:48 +0100</pubDate>
-      <guid>http://localhost:1313/post/books/</guid>
+      <guid>https://bendwit.com/post/books/</guid>
       <description>&lt;p&gt;list of books i own&lt;/p&gt;&#xA;&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Romance of the three kingdoms -  Martin Palmer translation&lt;/li&gt;&#xA;&lt;li&gt;Outlaws of the Marsh (Vol 1-3) - Sidney Shapiro translation&lt;/li&gt;&#xA;&lt;li&gt;DUNE - Frank Herbert&lt;/li&gt;&#xA;&lt;li&gt;Journey to the West - Julia Lovell translation&lt;/li&gt;&#xA;&lt;li&gt;Catch-22 - Joseph Heller&lt;/li&gt;&#xA;&lt;li&gt;The Hobbit - J. R. R. Tolkien&lt;/li&gt;&#xA;&lt;li&gt;The Lord of the Rings - J. R. R. Tolkien&lt;/li&gt;&#xA;&lt;li&gt;Animal Farm - George Orwell&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;religious&#34;&gt;Religious&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Holy Bible - King James Version - Thomas Nelson.&lt;/li&gt;&#xA;&lt;li&gt;Daily Prayers for Orthodox Christians - Dr. John (Ellsworth) Hutchison-Hall.&lt;/li&gt;&#xA;&lt;li&gt;Orthodox Study Bible&lt;/li&gt;&#xA;&lt;li&gt;De Orthodoxe kerk - Sergei Hackel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical&#34;&gt;Technical&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How Linux Works, 3rd Edition - Brian Ward&lt;/li&gt;&#xA;&lt;li&gt;Netwerkbeheer met Windows Server 2019 deel 1 - Jan Smets&lt;/li&gt;&#xA;&lt;li&gt;Netwerkbeheer met Windows Server 2019 deel 2 - Jan Smets&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;non-fiction&#34;&gt;Non-fiction&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;From Emperor to Citizen - Aisin-Gioro Pu Yi&lt;/li&gt;&#xA;&lt;li&gt;Into the Wild - Jon Krakauer&lt;/li&gt;&#xA;&lt;li&gt;Permanent Record - Edward Snowden&lt;/li&gt;&#xA;&lt;li&gt;The Book of Five Rings - Victor Harris translation&lt;/li&gt;&#xA;&lt;li&gt;Bullshit Jobs - David Graeber&lt;/li&gt;&#xA;&lt;li&gt;The Art of War - Sun Tzu&lt;/li&gt;&#xA;&lt;li&gt;The Richest Man in Babylon - George S. Clason&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>e-reader</title>
-      <link>http://localhost:1313/post/ereader/</link>
-      <pubDate>Sun, 27 Oct 2024 18:02:14 +0100</pubDate>
-      <guid>http://localhost:1313/post/ereader/</guid>
-      <description>&lt;h1 id=&#34;how-i-setup-my-e-reader&#34;&gt;How i setup my e-reader&lt;/h1&gt;</description>
-    </item>
-    <item>
       <title>Hello_world!</title>
-      <link>http://localhost:1313/post/first_post/</link>
+      <link>https://bendwit.com/post/first_post/</link>
       <pubDate>Tue, 15 Oct 2024 17:56:04 +0200</pubDate>
-      <guid>http://localhost:1313/post/first_post/</guid>
+      <guid>https://bendwit.com/post/first_post/</guid>
       <description>&lt;h2 id=&#34;test-post&#34;&gt;test post&lt;/h2&gt;&#xA;&lt;p&gt;My first post to test some stuff!&lt;/p&gt;</description>
     </item>
   </channel>

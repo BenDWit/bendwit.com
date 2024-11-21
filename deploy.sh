@@ -1,5 +1,5 @@
 #!/bin/sh
-USER=..
+USER=root
 HOST=bendwit.com
 DIR=/var/www/bendwit/ # the directory where your website files should go
 
